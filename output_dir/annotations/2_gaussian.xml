@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>2_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>74</xmin>
+            <xmax>106</xmax>
+            <ymin>313</ymin>
+            <ymax>342</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <filename>2_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>15</xmin>
+            <xmax>91</xmax>
+            <ymin>52</ymin>
+            <ymax>126</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <filename>2_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>259</xmin>
+            <xmax>326</xmax>
+            <ymin>127</ymin>
+            <ymax>189</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>90_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>318</xmin>
+            <xmax>405</xmax>
+            <ymin>49</ymin>
+            <ymax>129</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <filename>90_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>558</xmin>
+            <xmax>578</xmax>
+            <ymin>163</ymin>
+            <ymax>184</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <filename>90_gaussian.jpg</filename>
+    <object>
+        <name>fire</name>
+        <bndbox>
+            <xmin>338</xmin>
+            <xmax>428</xmax>
+            <ymin>163</ymin>
+            <ymax>251</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>
